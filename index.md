@@ -2,7 +2,7 @@
 
 
 # 𝙆𝘼𝙈𝙈𝘼𝙍𝙄 𝘼𝙉𝘼𝙉𝘿
-## Ａｓｐｉｒｉｎｇ　Ｍａｃｈｉｎｅ　Ｌｅａｒｎｉｎｇ　Ｅｎｇｉｎｅｅｒ
+## ASPIRING MACHINE LEARNING ENGINEER
 
 ![Profile](https://github.com/Kammarianand/Kammarianand/raw/main/arMARc20_4x.jpg)
 
