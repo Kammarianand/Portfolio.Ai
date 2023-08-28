@@ -4,9 +4,11 @@
 # 𝙆𝘼𝙈𝙈𝘼𝙍𝙄 𝘼𝙉𝘼𝙉𝘿
 ## ASPIRING MACHINE LEARNING ENGINEER
 
-![Profile](https://github.com/Kammarianand/Kammarianand/raw/main/arMARc20_4x.jpg)
 
-I have a keen interest in coding, not just because it's interesting, but because I believe it has the potential to be fascinating. 😎
+
+I have an interest in coding, \
+not because it is interesting, \
+but because I think it would be interesting. 😎
 
 ## Skills
 
@@ -15,19 +17,21 @@ I have a keen interest in coding, not just because it's interesting, but because
 - ![Java Badge](https://img.shields.io/badge/-Java-007396)
 - ![Python Badge](https://img.shields.io/badge/-Python-3776AB)
 - ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E)
-- ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1)
+- ![MySQL Badge](https://img.shields.io/badge/-SQL-4479A1)
 
 ### Python Libraries
 
 - ![Numpy Badge](https://img.shields.io/badge/Python-Numpy-013243)
 - ![Pandas Badge](https://img.shields.io/badge/Python-Pandas-150458)
 - ![Matplotlib Badge](https://img.shields.io/badge/Python-Matplotlib-E97627)
+- ![Matplotlib Badge](https://img.shields.io/badge/Python-sklearn-E97627)
 - ![TensorFlow Badge](https://img.shields.io/badge/Python-TensorFlow-FF6F00)
 
 ## Soft Skills
 
 - Communication
 - Teamwork
+- Presentation
 
 ## Tools
 
