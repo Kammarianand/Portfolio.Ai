@@ -12,20 +12,22 @@ but because I think it would be interesting. 😎
 
 ## Skills
 
-- ![C Badge](https://img.shields.io/badge/-C-00599C)
-- ![C++ Badge](https://img.shields.io/badge/-C++-00599C)
-- ![Java Badge](https://img.shields.io/badge/-Java-007396)
-- ![Python Badge](https://img.shields.io/badge/-Python-3776AB)
-- ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E)
-- ![MySQL Badge](https://img.shields.io/badge/-SQL-4479A1)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
 
 ### Python Libraries
 
-- ![Numpy Badge](https://img.shields.io/badge/Python-Numpy-013243)
-- ![Pandas Badge](https://img.shields.io/badge/Python-Pandas-150458)
-- ![Matplotlib Badge](https://img.shields.io/badge/Python-Matplotlib-E97627)
-- ![Matplotlib Badge](https://img.shields.io/badge/Python-sklearn-E97627)
-- ![TensorFlow Badge](https://img.shields.io/badge/Python-TensorFlow-FF6F00)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) 
+
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
 
 ## Soft Skills
 
@@ -50,7 +52,7 @@ but because I think it would be interesting. 😎
   
 - IBM Data Science Level 2 (Credly Badge) ![IBM Data Science Badge](https://img.shields.io/badge/Achievement-IBM_Data_Science-blue)
 
-- HackerRank Java and Python Certifications
+- HackerRank Java and Python Certifications \
   ![HackerRank Java Badge](https://img.shields.io/badge/Achievement-HackerRank_Java-brightgreen)
   
   ![HackerRank Python Badge](https://img.shields.io/badge/Achievement-HackerRank_Python-brightgreen)
@@ -76,3 +78,10 @@ Currently, I'm engaged in a virtual internship at BharatIntern.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kammari-anand-504512230/)
 ![Email](https://img.shields.io/badge/Email-Contact-informational)
 [![Sololearn](https://img.shields.io/badge/Sololearn-Connect-green)](https://www.sololearn.com/profile/20186597)
+
+
+
+## 🧑‍💻
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
