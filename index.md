@@ -6,9 +6,15 @@
 
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDAE&width=635&lines=Python+enthusiast+%F0%9F%90%8D;Data+analysis+%F0%9F%93%8A;Data+Visualization+%F0%9F%93%89;Feature+Engineering+%F0%9F%9A%80;Command+Line+Enthusiast+%F0%9F%96%A5)](https://git.io/typing-svg)
+
+
+
+
 I have an interest in coding, \
 not because it is interesting, \
 but because I think it would be interesting. 😎
+
 
 ## Skills
 
